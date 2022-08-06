@@ -1,0 +1,17 @@
+/*estilos generales*/
+
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.buttonMinio{
+    background-color: yellow;
+}
+
+.buttonMinio:hover{
+    background-color: white;
+}
+
+.buttonMinio:focus{
+    background-color: aqua;
+}
